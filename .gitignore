@@ -1,0 +1,14 @@
+!public/
+public/*
+!public/splash/
+/vendor
+ssl/
+*.txt
+*.cer
+*.pem
+.idea
+.DS_Store
+*.pyc
+composer.bat
+composer.phar
+/interfaceCommon/Config/config.class.php
