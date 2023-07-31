@@ -11,4 +11,3 @@ ssl/
 *.pyc
 composer.bat
 composer.phar
-/interfaceCommon/Config/config.class.php
