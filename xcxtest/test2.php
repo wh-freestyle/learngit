@@ -13,37 +13,37 @@ $return = [
     ],
     [
         'id' => 3,
-        'image' => 'icon3',
+        'name' => 'icon3',
         'link' => 'https://assets.zhayieye.com/app/mp_home_icon_job2x.png'
     ],
     [
         'id' => 4,
-        'image' => 'icon4',
+        'name' => 'icon4',
         'link' => 'https://assets.zhayieye.com/app/mp_home_icon_job2x.png'
     ],
     [
         'id' => 5,
-        'image' => 'icon5',
+        'name' => 'icon5',
         'link' => 'https://assets.zhayieye.com/app/mp_home_icon_job2x.png'
     ],
     [
         'id' => 6,
-        'image' => 'icon6',
+        'name' => 'icon6',
         'link' => 'https://assets.zhayieye.com/app/mp_home_icon_job2x.png'
     ],
     [
         'id' => 7,
-        'image' => 'icon7',
+        'name' => 'icon7',
         'link' => 'https://assets.zhayieye.com/app/mp_home_icon_job2x.png'
     ],
     [
         'id' => 8,
-        'image' => 'icon8',
+        'name' => 'icon8',
         'link' => 'https://assets.zhayieye.com/app/mp_home_icon_job2x.png'
     ],
     [
         'id' => 9,
-        'image' => 'icon9',
+        'name' => 'icon9',
         'link' => 'https://assets.zhayieye.com/app/mp_home_icon_job2x.png'
     ]
 ];
