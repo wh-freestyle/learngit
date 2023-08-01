@@ -40,6 +40,11 @@ $return = [
         'id' => 8,
         'image' => 'icon8',
         'link' => 'https://assets.zhayieye.com/app/mp_home_icon_job2x.png'
+    ],
+    [
+        'id' => 9,
+        'image' => 'icon9',
+        'link' => 'https://assets.zhayieye.com/app/mp_home_icon_job2x.png'
     ]
 ];
 $string = json_encode($return, JSON_UNESCAPED_SLASHES);
